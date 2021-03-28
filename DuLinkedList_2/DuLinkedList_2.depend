@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616903315 source:d:\打码专属\qg作业\第一次作业\dulinkedlist_2\dulist_interface.c
+	<stdio.h>
+	<stdlib.h>
+
+1616902890 source:d:\打码专属\qg作业\第一次作业\dulinkedlist_2\dulist_insert.c
+	<stdio.h>
+	<stdlib.h>
+
+1616903354 source:d:\打码专属\qg作业\第一次作业\dulinkedlist_2\dulist_delete.c
+	<stdio.h>
+	<stdlib.h>
+
